@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>AccountApproval</name>
+    <id>AccountApproval</id>
+    <author>Custom</author>
+    <description>Requires admin approval before new users can post, comment, message, or upload files. Pending users can still log in and read content.</description>
+    <license>Open Source Social Network License (OSSN LICENSE)</license>
+    <author_url></author_url>
+    <license_url>http://www.opensource-socialnetwork.org/licence/</license_url>
+    <version>1.0</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>8.0</version>
+	</requires>
+</component>
